@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kierahunter
+- 👋 Hi, I’m @kierahunter (Any Pronouns) 🏳️‍⚧️💗🔥
 - 👀 I’m interested in Development, Design, DIY, and hacking ;)
 - 🌱 I’m currently learning NodeJS, Unity3D, and Pixel Art.
 - 💞️ I’m looking to collaborate on educational projects.
